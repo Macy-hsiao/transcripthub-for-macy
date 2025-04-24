@@ -1,0 +1,7 @@
+torch
+torchaudio
+transformers
+pyannote.audio
+pydub
+flask
+python-docx
